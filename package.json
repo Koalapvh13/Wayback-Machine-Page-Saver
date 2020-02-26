@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Koalapvh13/Wayback-Machine-Page-Saver/issues"
   },
-  "homepage": "https://github.com/Koalapvh13/Wayback-Machine-Page-Saver#readme"
+  "homepage": "https://github.com/Koalapvh13/Wayback-Machine-Page-Saver#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
