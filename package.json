@@ -1,0 +1,24 @@
+{
+  "name": "wayback-pagesaver",
+  "version": "1.0.0",
+  "description": "NPM Package to save web pages on http://web.archive.org/web/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koalapvh13/Wayback-Machine-Page-Saver.git"
+  },
+  "keywords": [
+    "wayback-machine",
+    "archive.org",
+    "wayback"
+  ],
+  "author": "Matheus Dias Vieira <matheuspvh13@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Koalapvh13/Wayback-Machine-Page-Saver/issues"
+  },
+  "homepage": "https://github.com/Koalapvh13/Wayback-Machine-Page-Saver#readme"
+}
